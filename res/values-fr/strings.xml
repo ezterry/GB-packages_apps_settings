@@ -1179,10 +1179,6 @@
     <string name="data_bind_mount">Data2sd</string>
     <string name="data_bind_mount_summary">rediriger /data/data vers /sd-ext/app-data</string>
     <string name="toast_magpie_disabled">ERREUR: sd-ext désactivé, remplacement par \'auto\'</string>
-    <string name="zswap_appram_enable">CompCache</string>
-    <string name="zswap_appram_off">Activer 8Mio de CompCache</string>
-    <!-- the * will be replaced by the number of Mb-->
-    <string name="zswap_appram_on">CompCache: *Mio activés actuellement.</string>
     <!-- su update override -->
 
     <string name="allow_su_updates">Mettre à jour Superuser</string>
